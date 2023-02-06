@@ -1,6 +1,5 @@
 name: CI
 
-on: push
 
 env:
   ANDROID_NDK_VERSION: r25b
